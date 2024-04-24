@@ -1,0 +1,2 @@
+# ClickerProject
+Ithub Семестрови проект
